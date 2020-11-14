@@ -1,0 +1,23 @@
+.gallery-root {
+  display:flex;
+  text-align: center;
+}
+.gifTest{
+  background-size: cover;
+  background-position: center center;
+  display: inline-block;
+  vertical-align: top;
+  box-sizing: border-box;
+  position: relative;
+  border: 1px solid white;
+}
+.gallery-header {
+  background-color: #222;
+  padding: 10px;
+  color: white;
+  font-size: 20pt;
+}
+
+.gallery-intro {
+  font-size: 15pt;
+}
